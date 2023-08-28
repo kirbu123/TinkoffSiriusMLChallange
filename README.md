@@ -1,10 +1,14 @@
 # TinkoffSiriusMLChallange
-ML CV pet-project
 <h1 align="center">Hi everyone! I'm Bunin Kirill, MIPT student</h1>
 <h3 align="center">Here is some information about my project, let me speak russian lower</h3>
 <hr style="background-color:gray;"></hr>
 
 <h3 align="center">Опишем образ инопланетян, их предпочтения</h3>
+
+
+
+
+<center>
 
 | Паттерны внешности | Предпочтения гдетотамцев |
 |---------|---------|
@@ -16,4 +20,6 @@ ML CV pet-project
 | лупоглазые | много литературы |
 
 ![Image info](alien_pictures/alien_tinkoff_worker_small.png)
+
+</center>
 
