@@ -20,4 +20,8 @@
 
 </div>
 
+<div style="text-align: center;">
+
 ![Image info](alien_pictures/alien_tinkoff_worker_small.png)
+
+</div>
