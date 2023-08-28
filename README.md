@@ -18,9 +18,6 @@
 | большеголовые | интерьер из дерева |
 | лупоглазые | много литературы |
 
-</div>
-
-
 ![Image info](alien_pictures/alien_tinkoff_worker_small.png)
 
-
+</div>
