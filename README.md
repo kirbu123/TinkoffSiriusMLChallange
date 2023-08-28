@@ -1,9 +1,8 @@
-# TinkoffSiriusMLChallange
 <h1 align="center">Hi everyone! I'm Bunin Kirill, MIPT student</h1>
 <h3 align="center">Here is some information about my project, let me speak russian lower</h3>
-<hr style="background-color:gray;"></hr>
+<hr style="background-color:blue;"></hr>
 
-<h3 align="center">Опишем образ инопланетян, их предпочтения</h3>
+<h3 align="center">Описание образов инопланетян, их предпочтений</h3>
 
 
 
@@ -25,4 +24,8 @@
 ![Image info](alien_pictures/alien_tinkoff_worker_small.png)
 
 </div>
-Больше изображений инопланетян в папке alien_pictures
+<h3 align="center">Больше изображений инопланетян в папке alien_pictures</h3>
+
+<h5 align="center">(изображения сгенерированы с помощью StableDiffusionMagic)</h5>
+
+<hr style="background-color:blue;"></hr>
