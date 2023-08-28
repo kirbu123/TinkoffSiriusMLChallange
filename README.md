@@ -20,6 +20,4 @@
 
 </div>
 
-<p align="center">
-  ![Image info](alien_pictures/alien_tinkoff_worker_small.png)
-</p>
+![Image info](alien_pictures/alien_tinkoff_worker_small.png)
