@@ -25,3 +25,4 @@
 ![Image info](alien_pictures/alien_tinkoff_worker_small.png)
 
 </div>
+Больше изображений инопланетян в папке alien_pictures
